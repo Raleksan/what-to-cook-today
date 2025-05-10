@@ -156,4 +156,3 @@ The project includes fuzzing tests using Hypothesis. These tests are automatical
 ```bash
 poetry run python -m pytest tests/fuzzing -v --cov=src --cov-config=.fuzz-coveragerc
 ```
- 
